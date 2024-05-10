@@ -1,5 +1,5 @@
 
-# Title:  Czechoslovakia Banking Financiial Data Analysis
+# End-To-End Data Analytics Project: Czechoslovakia Banking Financial Data Analysis
 
 **Introduction:**
 Let's embark on a journey through the financial data provided by Czechoslovakia Bank, spanning 5 years. With 8 tables covering client info, accounts, cards, loans, transactions, and orders, we aim to offer valuable insights to enhance the bank's financial decisions.
